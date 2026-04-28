@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466200848590",
+    "project_id": "afyatech-e2c62",
+    "storage_bucket": "afyatech-e2c62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466200848590:android:d8394519b1825aff68c89f",
+        "android_client_info": {
+          "package_name": "com.example.afyatech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zFniP7stu6qiwC5cqOQ-ayOqKVgZICs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
