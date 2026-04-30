@@ -1,4 +1,37 @@
-git clone https://github.com/MariamAbumajd/AfyaTech.git
+ # AfyaTech (عافيا تيك) 🏥
+
+A mobile application built with **Flutter** to revolutionize the healthcare journey in Egypt. AfyaTech connects patients, doctors, labs, and pharmacies into one seamless ecosystem, focusing on real-time coordination and digital health records.
+
+## Key Features 🌟
+
+*   **Closed-Loop Ecosystem:** Unlike standard booking apps, AfyaTech connects the entire journey (**Doctor → Lab → Pharmacy**) in one real-time record.
+*   **Live Queue Tracking:** Patients can view their real-time position in the clinic queue and see exactly how many people are ahead of them.
+*   **Smart GPS Notifications:** Automatically calculates travel time based on the patient's location and notifies them when to leave home to catch their appointment.
+*   **Digital Medical Card:** A unique QR/Profile system for patients to share their medical history, prescriptions, and lab results with authorized providers.
+*   **Integrated Payments:** Secure in-app payment gateway for booking fees and services.
+
+## Tech Stack 🛠
+
+*   **Frontend:** Flutter (Dart)
+*   **Backend:** Firebase (Authentication, Firestore, Cloud Storage)
+*   **APIs:** Google Maps API (for GPS tracking and location services)
+*   **Version Control:** Git & GitHub
+
+## User Roles 👥
+
+### 1. Patient (User)
+*   Search for doctors by specialty, rating, and distance.
+*   Book appointments and track live queue status.
+*   Receive "Time to Leave" alerts based on real-time traffic.
+*   Access a centralized dashboard for medical records and prescriptions.
+ 
+
+## How to Run  
+
+1.  Ensure you have the **Flutter SDK** installed.
+2.  Clone the repository:
+    ```bash
+    git clone https://github.com/MariamAbumajd/AfyaTech.git
     ```
 3.  Get Packages:
     ```bash
@@ -8,11 +41,7 @@ git clone https://github.com/MariamAbumajd/AfyaTech.git
     ```bash
     flutter run
     ```
-
-## Why this project? 💡
-
-This project aims to solve the problem of long waiting times and fragmented medical records in the Egyptian healthcare market. By targeting a **TAM of 100M+ citizens**, AfyaTech bridges the gap between different healthcare providers to ensure a faster, data-driven patient experience.
-
+    
 ## 📸 App Screenshots
  
 | <img width="200" alt="photo_14_2026-04-30_22-45-05" src="https://github.com/user-attachments/assets/cdda9436-4da1-4b17-9b38-50399729907f" /> |<img width="200" alt="photo_13_2026-04-30_22-45-05" src="https://github.com/user-attachments/assets/aa4b90e2-04c0-429d-9389-31abe03c8c37" />|
@@ -29,4 +58,4 @@ This project aims to solve the problem of long waiting times and fragmented medi
 
 
 
- 
+  
